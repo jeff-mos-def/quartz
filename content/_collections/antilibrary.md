@@ -13,6 +13,8 @@ This list is a live list and will be updated as it grows.
 📖 Book, 📟 Ebook, 🎧 Audio Book
 
 ## > 2023
+- The Phoenix Project, Gene Kim, Kevin Behr, George Spafford 📖
+- Traction, Gino Wickman 📖
 - World War Z, Max Brooks 📖
 - Thinking Fast and Slow, Daniel Kahneman 📖
 - A Farewell to Arms, Ernest Hemingway 📖

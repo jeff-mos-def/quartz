@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       typography: {
         header: "Mulish",
         body: "Mulish",
-        code: "IBM Plex Mono",
+        code: "Fira Code",
       },
       colors: {
         lightMode: {

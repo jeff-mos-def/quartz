@@ -10,9 +10,8 @@ tags:
 
 ### Let's get in contact
 
-Being a self-learner, I am passionate about sharing my knowledge and provide coaching and mentoring to veterans and service members. 
+Being a self-learner, I am passionate about sharing my knowledge and provide coaching and mentoring to veterans and service members. Feel free to reach out to talk.
 
-You can also drop me a line here:
 
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xleykgbg" method="post">
   <fieldset id="fs-frm-inputs">

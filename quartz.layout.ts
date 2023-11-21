@@ -31,6 +31,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.RecentNotes({ title: "Recent writing" }),
   ],
   right: [
+    Component.TagList(),
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),

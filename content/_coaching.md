@@ -7,7 +7,7 @@ tags:
   - coaching
 ---
 
-I offer coaching for individuals or teams looking to improve their Agile knowledge base and practices. I provide 1:1 sessions like portfolio reviews and mock interviews on <a href="https://topmate.io/jeffrey_camacho" target="_blank">topmate</a>, and mentoring via <a href="https://go.veterati.com/EKTNUC" target="_blank">Veterati</a> for military members, veterans, and their spouses. If you're interested in other coaching models or have any questions, feel free to <a href="mailto:jeff@jeffcamacho.com">email</a> me.
+I offer coaching for individuals or teams looking to improve their Agile knowledge base and practices. I provide 1:1 sessions like portfolio reviews and mock interviews on <u><a href="https://topmate.io/jeffrey_camacho" target="_blank">topmate</a></u>, and mentoring via <u><a href="https://go.veterati.com/EKTNUC" target="_blank">Veterati</a></u> for military members, veterans, and their spouses. If you're interested in other coaching models or have any questions, feel free to <u><a href="mailto:jeff@jeffcamacho.com">email</a></u> me.
 
 ## for agile teams
 For Agile Teams, I facilitate Agile coaching tailored to enhance your team's design thinking, tool mastery, and process agility, adapting each session to your specific project cadence and goals.
